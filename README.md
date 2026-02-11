@@ -77,7 +77,7 @@ Business-critical flows covered:
 Headless Mode: npm test
 
 Cypress UI Mode: npx cypress open
-- 
+ 
 
 ##CI/CD - GitHub Actions
 
